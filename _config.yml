@@ -1,9 +1,10 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: LOREBUSTER
+description: LOREBUSTER
+meta_description: "LOREBUSTER"
 
 markdown: kramdown
-highlighter: pygments
+#unsupported# highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
