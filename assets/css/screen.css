@@ -481,7 +481,8 @@ margin on the iframe, cause it breaks stuff. */
 .vertical {
     display: table-cell;
     vertical-align: middle;
-   width:80%;
+   text-align: center;
+   width:75%;
 }
 
 
