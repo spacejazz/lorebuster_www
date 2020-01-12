@@ -12,7 +12,7 @@ title: Press Kit
 - [Logos](#Logos)
 - [Contact](#Contact)
 - [History](#History)
-- [Awards & Recognition](#Awards & Recognition)
+- [Awards & Recognition](#Awards-&-Recognition)
 - [Articles](#Articles)
 - [Credits](#Credits)
 
