@@ -8,10 +8,10 @@ highlighter: rouge
 logo: true
 paginate: 15
 baseurl: /lorebuster_www/
-#domain_name: 'http://lorebuster.com'
+domain_name: 'https://lorebuster.com'
 #google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-#url:            'blog url'
-#author:         'Your Name'
+url:            'https://lorebuster.com'
+author:         'Nick Muse'
