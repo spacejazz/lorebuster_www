@@ -4,10 +4,10 @@ title: Press Kit
 ---
 
 ## General
-###### Developer:
+**Developer:**
 Nick Muse
 
-###### Website:
+**Website:**
 lorebuster.com
 
 ###### Platforms:
