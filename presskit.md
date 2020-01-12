@@ -3,20 +3,31 @@ layout: page
 title: Press Kit
 ---
 
+## Table of Contents
+
+- [General](#General)
+- [Description](#Description)
+- [Videos](#Videos)
+- [Images](#Images)
+- [Logos](#Logos)
+- [Contact](#Contact)
+- [History](#History)
+- [Awards & Recognition](#Awards & Recognition)
+- [Articles](#Articles)
+- [Credits](#Credits)
+
 ## General
-**Developer:**
-Nick Muse
+**Developer:** Nick Muse
 
-**Website:**
-lorebuster.com
+**Website:** [lorebuster.com](https://lorebuster.com)
 
-###### Platforms:
+**Platforms:**
+
 - PC
 - ?
 - ?
 
-###### Base Price:
-TBA
+**Base Price:** TBA
 
 ## Description
 Lorebuster is a blah blah game about blah blah.
@@ -41,11 +52,9 @@ LOGO1
 LOGO2
 
 ## Contact
-###### Email
-[nickmuse@gmail.com](mailto:nickmuse@gmail.com)
+**Email:** [nickmuse@gmail.com](mailto:nickmuse@gmail.com)
 
-###### Twitter
-[twitter.com/nickmuse](twitter.com/nickmuse)
+**Twitter:** [twitter.com/nickmuse](twitter.com/nickmuse)
 
 ## History
 Developed between 2017 and 2XXX by Nick Muse
@@ -53,10 +62,12 @@ Developed between 2017 and 2XXX by Nick Muse
 ## Awards & Recognition
 
 ## Articles
+Please [contact](#Contact) me to have your article added!
 
 ## Credits
 
-###### Nick Muse:
+**Nick Muse:**
+
 - Design
 - Pixel Art
 - Concept Art
@@ -67,8 +78,10 @@ Developed between 2017 and 2XXX by Nick Muse
 - Marketing
 - PR
 
-###### ???? ????:
+**???? ????:**
+
 - Concept Art
 
-###### ???? ????:
+**???? ????:**
+
 - Additional Story
