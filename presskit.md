@@ -19,7 +19,7 @@ title: Press Kit
 ## General
 **Developer:** Nick Muse
 
-**Website:** [lorebuster.com](https://lorebuster.com)
+**Website:** [{{site.domain_name}}]({{site.domain_name}})
 
 **Platforms:**
 
