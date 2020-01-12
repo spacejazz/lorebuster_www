@@ -4,18 +4,18 @@ title: Press Kit
 ---
 
 ## General
-#####Developer:
+###### Developer:
 Nick Muse
 
-#####Website:
+###### Website:
 lorebuster.com
 
-#####Platforms:
+###### Platforms:
 - PC
 - ?
 - ?
 
-#####Base Price:
+###### Base Price:
 TBA
 
 ## Description
@@ -41,10 +41,10 @@ LOGO1
 LOGO2
 
 ## Contact
-#####Email
+###### Email
 [nickmuse@gmail.com](mailto:nickmuse@gmail.com)
 
-#####Twitter
+###### Twitter
 [twitter.com/nickmuse](twitter.com/nickmuse)
 
 ## History
@@ -56,7 +56,7 @@ Developed between 2017 and 2XXX by Nick Muse
 
 ## Credits
 
-#####Nick Muse:
+###### Nick Muse:
 - Design
 - Pixel Art
 - Concept Art
@@ -67,8 +67,8 @@ Developed between 2017 and 2XXX by Nick Muse
 - Marketing
 - PR
 
-#####???? ????:
+###### ???? ????:
 - Concept Art
 
-#####???? ????:
+###### ???? ????:
 - Additional Story
