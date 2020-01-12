@@ -12,8 +12,8 @@ title: Press Kit
 - [Logos](#Logos)
 - [Contact](#Contact)
 - [History](#History)
-- [Awards & Recognition](#Awards-&-Recognition)
 - [Articles](#Articles)
+- [Recognition](#Recognition)
 - [Credits](#Credits)
 
 ## General
@@ -59,7 +59,7 @@ LOGO2
 ## History
 Developed between 2017 and 2XXX by Nick Muse
 
-## Awards & Recognition
+## Recognition
 
 ## Articles
 Please [contact](#Contact) me to have your article added!
